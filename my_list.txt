@@ -1,0 +1,5 @@
+www.zhihu.com##DIV[class="AdblockBanner"]
+www.zhihu.com##DIV[class="Modal-wrapper"]
+163.com##DIV[class="ntes_nav_wrap"]
+163.com##DIV[class="clearfix"]
+static.zhihu.com/heifetz/main.signflow*.js
