@@ -1,8 +1,28 @@
-[Adblock Plus 2.0]
-! Title: My Block List
-!
-www.zhihu.com##DIV[class="AdblockBanner"]
-www.zhihu.com##DIV[class="Modal-wrapper"]
+zhihu.com##DIV[class="AdblockBanner"]
+zhihu.com##DIV[class="Modal-wrapper"]
 163.com##DIV[class="ntes_nav_wrap"]
 163.com##DIV[class="clearfix"]
 static.zhihu.com/heifetz/main.signflow*.js
+
+bbs.csdn.net##.pulllog.clearfix
+bbs.csdn.net##.pulllog-box
+zhihu.com##.AdblockBanner-inner
+zhihu.com##.AdblockBanner
+baidu.com##.c-table.opr-toplist1-table
+baidu.com##.cr-title.opr-toplist1-title
+baidu.com##.OP_LOG_BTN.c-gap-top-small.opr-toplist1-from
+blog.csdn.net###reportContent
+baidu.com###content_right
+baidu.com##.cr-offset
+jianshu.com###web-note-ad-fixed
+blog.csdn.net##.btn-bookmark.low-height.hover-box
+blog.csdn.net##.bds_weixin.clear-share-style
+blog.csdn.net##.hover-show.text.text3
+blog.csdn.net##.btn-comments.low-height.hover-box
+blog.csdn.net##.right_box.footer_box.csdn-tracking-statistics
+baidu.com##.rrecom-container
+stackoverflow.com###noscript-warning
+stackoverflow.com###js-gdpr-consent-banner
+stackoverflow.com##.p16.bg-black-700.ff-sans.fc-white.ps-fixed.b0.l0.r0.z-banner
+baidu.com##.result-op.xpath-log
+baidu.com##.rrecom-btn.rrecom-btn-hover
